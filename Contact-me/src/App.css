@@ -1,0 +1,11 @@
+.app-container {
+  display: flex;
+}
+
+.app-conatiner2 {
+  width: 100%;
+}
+
+.sidebar {
+  height: 620px;
+}
